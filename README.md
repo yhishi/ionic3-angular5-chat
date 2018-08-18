@@ -1,2 +1,2 @@
 app-image
-<img src="https://imgur.com/a/AAUGN1i" width="200" alt="ionic3-angular5-chat-image">
+<a href="https://imgur.com/sLu2mOH"><img src="https://i.imgur.com/sLu2mOH.png" title="source: imgur.com" /></a>
