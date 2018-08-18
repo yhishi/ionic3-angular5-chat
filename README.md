@@ -1,1 +1,2 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/blank) repo! :point_left:
+app-image
+<img src="https://imgur.com/a/AAUGN1i" width="200" alt="ionic3-angular5-chat-image">
